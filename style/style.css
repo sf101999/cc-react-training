@@ -1,0 +1,22 @@
+head {
+color: red;
+text-align: center;
+}
+body {
+  background-color: green;
+}
+h1 {
+  color: red;
+}
+p1 {
+  font-weight: bold;
+  color: blue;}
+p{
+  font-size: xx-large;
+  color:coral;
+}
+li {
+	font-style: bold;
+	color: yellow;
+	text-align: corner;
+}
